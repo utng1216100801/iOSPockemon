@@ -107,7 +107,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate, GMSMapViewDel
         self.listPockemon.append(Pockemon(latitude: 37.7789994893035, longitude: -122.401846647263, image: "charmander", name: "Charmander", des: "Charmander lives in japan", power:55))
         self.listPockemon.append(Pockemon(latitude: 37.7949568502667, longitude: -122.410494089127, image: "pikachu", name: "Pikachu", des: "Pikachu lives in usa", power:90.5))
         self.listPockemon.append(Pockemon(latitude: 37.7816621152613, longitude: -122.41225361824, image: "bulbasaur", name: "Bulbasaur", des: "Bulbasaur lives in iraq", power:33.5))
-        self.listPockemon.append(Pockemon(latitude: 37.7939874493035, longitude: -122.401846457263, image: "squirtle", name: "Squirtle", des: "Squirtle lives in méxico", power:65.5))
+        self.listPockemon.append(Pockemon(latitude: 37.7939874493035, longitude: -122.401846457263, image: "squirtle", name: "Squirtle", des: "Squirtle lives in germania", power:65.5))
     }
     
     func AlertDialog(PockemonPower:Double){

@@ -2,7 +2,7 @@
 //  Pockemons.swift
 //  Pockemon
 //
-//  Created by Victor Garcia on 2/28/19.
+//  Created by Diana Manzano on 2/27/19.
 //  Copyright © 2019 diana manzano. All rights reserved.
 //
 
